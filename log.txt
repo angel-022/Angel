@@ -1,0 +1,17 @@
+commit 06ce235e5978661f898884df91f90e297dbaf521
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Sun Nov 24 03:47:12 2024 +0100
+
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit 940be09cb8f895d2ee96f034d392988bd2f7df40
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Sun Nov 24 03:41:42 2024 +0100
+
+    adding test filr to the dev branch
+
+commit abc5bab2c8934e00bbeff064e5d770a9205980f1
+Author: angel-022 <zainebmar01@gmail.com>
+Date:   Sun Nov 24 03:39:51 2024 +0100
+
+    adding Task1 folder and the README file on thr master branch
