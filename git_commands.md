@@ -1,12 +1,12 @@
 # gitlab Tasks:
-test
+
 ## Task 2: Create a new gitlab repository
 ```bash
 git clone https://gitlab.com/EL-HOUSS-BRAHIM/gitlab.git
 cd gitlab
 git branch -m master
 ```
-![gitlab Task2](https://github.com/user-attachments/assets/a865fe8a-bf1c-4b49-91d2-d41d352cf077)
+![gitlab Task2](https://github.com/user-attachments/assets/916e655f-af4c-418b-a413-ca38c9508aad)
 
 ---
 
@@ -18,7 +18,7 @@ git add .
 git commit -m "adding Task1 folder and the README file on the master branch"
 git push origin master
 ```
-![gitlab Task3](https://github.com/user-attachments/assets/1105a462-62fa-4903-b551-3f17b2bb392d)
+![gitlab Task3](https://github.com/user-attachments/assets/863cf2fc-50b1-4c05-9124-c6e03e5a93fa)
 
 ---
 
@@ -30,7 +30,7 @@ git add .
 git commit -m "adding test file to the dev branch"
 git push --set-upstream origin HEAD
 ```
-![gitlab Task4](https://github.com/user-attachments/assets/fcfeaa1c-6363-4a58-8428-e4be34c83238)
+![gitlab Task4](https://github.com/user-attachments/assets/557aa75d-95cd-4124-ad43-c749df78aba4)
 
 ---
 
@@ -38,7 +38,7 @@ git push --set-upstream origin HEAD
 ```bash
 git checkout -b %USERNAME-new_feature
 ```
-![gitlab Task5](https://github.com/user-attachments/assets/a25cf01a-b7d6-4332-9761-040bab55d476)
+![gitlab Task5](https://github.com/user-attachments/assets/34fac80e-93cc-4d40-a8e2-dede1e51c50b)
 
 ---
 
@@ -46,7 +46,7 @@ git checkout -b %USERNAME-new_feature
 ```bash
 touch README.md
 ```
-![gitlab Task6](https://github.com/user-attachments/assets/56b6dde6-30e0-49ab-bc47-f416b097cc64)
+![gitlab Task6](https://github.com/user-attachments/assets/09252a0c-0227-4d88-b4be-d4b07529914b)
 
 ---
 
@@ -54,7 +54,7 @@ touch README.md
 ```bash
 git status
 ```
-![gitlab Task7](https://github.com/user-attachments/assets/af98f5e7-7c6c-4a49-84ad-035ccc4119d6)
+![gitlab Task7](https://github.com/user-attachments/assets/880bb521-f565-4a91-8dad-9379362b8a6f)
 
 ---
 
@@ -62,7 +62,7 @@ git status
 ```bash
 echo ".*" > .gitignore
 ```
-![gitlab Task8](https://github.com/user-attachments/assets/4b98c566-0419-4f55-aeeb-564e2446a998)
+![gitlab Task8](https://github.com/user-attachments/assets/0fa8b31a-f49d-4c0c-a203-5d1d686737d8)
 
 ---
 
@@ -72,7 +72,7 @@ git add -f .
 git commit -m "adding readme and gitignore file %USERNAME-new_feature"
 git push --set-upstream origin HEAD
 ```
-![gitlab Task9](https://github.com/user-attachments/assets/c8b9abee-c843-430e-8f2b-46f6e1d857bb
+![gitlab Task9](https://github.com/user-attachments/assets/9c935914-7d97-492f-9180-680d0a6b8ae1)
 
 ---
 
@@ -81,21 +81,21 @@ git push --set-upstream origin HEAD
 #No commands here!
 ```
 <p>first open your repo and click on Merge requests</p>
-![gitlab Task10-1](https://github.com/user-attachments/assets/459d0020-f3a9-4804-9d76-46e6c537173d)
+![gitlab Task10-1](https://github.com/user-attachments/assets/4ad052a4-0805-4ff2-9516-bb023fa0aaeb)
 <p>next click on New Merge request </p>
-![gitlab Task10-2](https://github.com/user-attachments/assets/8d0c10a2-b857-4bd9-8833-0b146a09934d)
+![gitlab Task10-2](https://github.com/user-attachments/assets/f6c66b8c-869a-4a68-a64b-f23aa698a2e9)
 <p>chouse the branch as you see on image </p>
-![gitlab Task10-3](https://github.com/user-attachments/assets/2cfb3072-94b1-4790-be79-6b7887011fe9)
+![gitlab Task10-3](https://github.com/user-attachments/assets/585b9aef-239a-462e-9e3d-e572066c0f70)
 <p>now create the merge request, next do the merge on terminal as the next step and come back for the next merge request</p>
-![gitlab Task10-4](https://github.com/user-attachments/assets/7a893937-93e1-4c7e-81f0-c83d3a061cb9)
+![gitlab Task10-4](https://github.com/user-attachments/assets/bde0f3a7-aae4-4034-b04f-d76e205cb15c)
 <p>after the commands you will see this image it meed the branches has been merged</p>
-![gitlab Task10-6](https://github.com/user-attachments/assets/7d820056-0c36-41aa-a2f1-3f2501ed5249)
+![gitlab Task10-6](https://github.com/user-attachments/assets/dc6e656b-eae1-447b-99f8-bd594eaa1d4a)
 <p>now chouse the branches for the merge as the image show</p>
-![gitlab Task10-7](https://github.com/user-attachments/assets/e271b204-3acd-4feb-9bab-4580010b8480)
+![gitlab Task10-7](https://github.com/user-attachments/assets/bea9fa0f-231f-44da-8591-e49649aa6d71)
 <p>now create the merge request</p>
-![gitlab Task10-8](https://github.com/user-attachments/assets/a4535192-65e6-4a25-9184-9936b96176e7)
+![gitlab Task10-8](https://github.com/user-attachments/assets/b492e174-c110-431f-8f00-9cf83b512766)
 <p>now go to the next step to continue the merge commands </p>
-![gitlab Task10-8](https://github.com/user-attachments/assets/1afba23a-0b46-432e-bf1e-21533b90ea00)
+![gitlab Task10-8](https://github.com/user-attachments/assets/f55640f7-61ed-46da-b491-f557e0ad5934)
 ---
 
 ## Task 11: Merge %USERNAME-new_feature with dev and create an MR to master. Merge dev with master.
@@ -109,8 +109,8 @@ git branch --unset-upstream
 git merge dev
 git push origin HEAD
 ```
-![gitlab Task11-1](https://github.com/user-attachments/assets/f0603c83-d143-4dbe-b88c-415e81136ef7)
-![gitlab Task11-2](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab17.png)
+![gitlab Task11-1](https://github.com/user-attachments/assets/a93ae0bb-37d3-4db3-b960-339fddc3a248)
+![gitlab Task11-2](https://github.com/user-attachments/assets/6b86ca3b-d48f-4ae1-8b78-de6a7dcfa484)
 
 ---
 
@@ -122,7 +122,7 @@ git add .
 git commit -m "editing the README file on the %USERNAME-new_feature branch"
 git revert HEAD
 ```
-![gitlab Task12](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab18.png)
+![gitlab Task12](https://github.com/user-attachments/assets/94b9b2d7-d558-4038-b800-f19bcf710d19)
 
 ---
 
@@ -135,7 +135,7 @@ git add log.txt
 git commit -m "Save git log output to log.txt"
 git push origin HEAD
 ```
-![gitlab Task13](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab19.png)
+![gitlab Task13](https://github.com/user-attachments/assets/c8e99615-aa66-47a8-976d-bb83ffa4dd5f)
 
 ---
 
