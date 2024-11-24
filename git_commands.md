@@ -80,21 +80,37 @@ git push --set-upstream origin HEAD
 ```bash
 #No commands here!
 ```
+
 <p>first open your repo and click on Merge requests</p>
+
 ![gitlab Task10-1](https://github.com/user-attachments/assets/4ad052a4-0805-4ff2-9516-bb023fa0aaeb)
+
 <p>next click on New Merge request </p>
+
 ![gitlab Task10-2](https://github.com/user-attachments/assets/f6c66b8c-869a-4a68-a64b-f23aa698a2e9)
+
 <p>chouse the branch as you see on image </p>
+
 ![gitlab Task10-3](https://github.com/user-attachments/assets/585b9aef-239a-462e-9e3d-e572066c0f70)
+
 <p>now create the merge request, next do the merge on terminal as the next step and come back for the next merge request</p>
+
 ![gitlab Task10-4](https://github.com/user-attachments/assets/bde0f3a7-aae4-4034-b04f-d76e205cb15c)
+
 <p>after the commands you will see this image it meed the branches has been merged</p>
+
 ![gitlab Task10-6](https://github.com/user-attachments/assets/dc6e656b-eae1-447b-99f8-bd594eaa1d4a)
+
 <p>now chouse the branches for the merge as the image show</p>
+
 ![gitlab Task10-7](https://github.com/user-attachments/assets/bea9fa0f-231f-44da-8591-e49649aa6d71)
+
 <p>now create the merge request</p>
+
 ![gitlab Task10-8](https://github.com/user-attachments/assets/b492e174-c110-431f-8f00-9cf83b512766)
+
 <p>now go to the next step to continue the merge commands </p>
+
 ![gitlab Task10-8]()
 ---
 
