@@ -107,7 +107,7 @@ git push --set-upstream origin HEAD
 
 <p>now create the merge request</p>
 
-![gitlab Task10-8](https://github.com/user-attachments/assets/b492e174-c110-431f-8f00-9cf83b512766)
+![gitlab Task10-8](https://github.com/user-attachments/assets/f55640f7-61ed-46da-b491-f557e0ad5934)
 
 <p>now go to the next step to continue the merge commands </p>
 
@@ -125,7 +125,7 @@ git branch --unset-upstream
 git merge dev
 git push origin HEAD
 ```
-![gitlab Task11-1](https://github.com/user-attachments/assets/f55640f7-61ed-46da-b491-f557e0ad5934)
+![gitlab Task11-1](https://github.com/user-attachments/assets/b492e174-c110-431f-8f00-9cf83b512766)
 ![gitlab Task11-2](https://github.com/user-attachments/assets/a93ae0bb-37d3-4db3-b960-339fddc3a248)
 
 
@@ -171,5 +171,3 @@ git push origin --delete %USERNAME-new_feature
 #this file is the last step
 ```
 ![gitlab Task15](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab20.png)
-
-
