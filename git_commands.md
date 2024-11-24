@@ -170,4 +170,3 @@ git push origin --delete %USERNAME-new_feature
 #No commands on this step!
 #this file is the last step
 ```
-![gitlab Task15](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab20.png)
