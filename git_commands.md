@@ -95,7 +95,7 @@ git push --set-upstream origin HEAD
 <p>now create the merge request</p>
 ![gitlab Task10-8](https://github.com/user-attachments/assets/b492e174-c110-431f-8f00-9cf83b512766)
 <p>now go to the next step to continue the merge commands </p>
-![gitlab Task10-8](https://github.com/user-attachments/assets/f55640f7-61ed-46da-b491-f557e0ad5934)
+![gitlab Task10-8]()
 ---
 
 ## Task 11: Merge %USERNAME-new_feature with dev and create an MR to master. Merge dev with master.
@@ -109,8 +109,9 @@ git branch --unset-upstream
 git merge dev
 git push origin HEAD
 ```
-![gitlab Task11-1](https://github.com/user-attachments/assets/a93ae0bb-37d3-4db3-b960-339fddc3a248)
-![gitlab Task11-2](https://github.com/user-attachments/assets/6b86ca3b-d48f-4ae1-8b78-de6a7dcfa484)
+![gitlab Task11-1](https://github.com/user-attachments/assets/f55640f7-61ed-46da-b491-f557e0ad5934)
+![gitlab Task11-2](https://github.com/user-attachments/assets/a93ae0bb-37d3-4db3-b960-339fddc3a248)
+
 
 ---
 
@@ -122,7 +123,7 @@ git add .
 git commit -m "editing the README file on the %USERNAME-new_feature branch"
 git revert HEAD
 ```
-![gitlab Task12](https://github.com/user-attachments/assets/94b9b2d7-d558-4038-b800-f19bcf710d19)
+![gitlab Task12](https://github.com/user-attachments/assets/6b86ca3b-d48f-4ae1-8b78-de6a7dcfa484)
 
 ---
 
@@ -135,7 +136,8 @@ git add log.txt
 git commit -m "Save git log output to log.txt"
 git push origin HEAD
 ```
-![gitlab Task13](https://github.com/user-attachments/assets/c8e99615-aa66-47a8-976d-bb83ffa4dd5f)
+![gitlab Task13](https://github.com/user-attachments/assets/94b9b2d7-d558-4038-b800-f19bcf710d19)
+
 
 ---
 
@@ -144,8 +146,7 @@ git push origin HEAD
 git branch -D %USERNAME-new_feature
 git push origin --delete %USERNAME-new_feature
 ```
-![gitlab Task14](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab20.png)
-
+![gitlab Task14](https://github.com/user-attachments/assets/c8e99615-aa66-47a8-976d-bb83ffa4dd5f)
 ---
 
 ## Task 15: Add all used commands to git_commands.md in the dev branch.
@@ -153,5 +154,6 @@ git push origin --delete %USERNAME-new_feature
 #No commands on this step!
 #this file is the last step
 ```
-![gitlab Task3](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab21.png)
+![gitlab Task15](https://gitlab.com/EL-HOUSS-BRAHIM/git/-/raw/master/images/gitlab20.png)
+
 
